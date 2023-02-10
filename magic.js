@@ -85,7 +85,7 @@ for (var i = 0; i < number.length; i++) {
     });
 }
 // function([string1, string2],target id,[color1,color2])    
- consoleText(['Hey There!!!', 'Welcome to Dis Calc', 'Made with Love.'], 'text',['tomato','rebeccapurple','lightblue']);
+ consoleText(['Hey There!!!', 'Welcome to Dis Calc', 'Calculate Your Way to Adventure!','Let the Magic of Disney Help with Your Math!'], 'text',['yellow','whitesmoke','lightblue', 'white']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
